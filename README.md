@@ -2,9 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=romaluev&color=blueviolet" alt="Profile Views" />
 
 ---
-I'm a developer & builder. Working on real products, experimenting with SaaS, automation, and content.
+developer, builder, vibe-coder, vibe-hustler.
 
-- 🔨 Founder @ [Horyco](https://horyco.com) — AI-driven OS for the future of HoReCa.
+- 🔨 Founder @ [Notiky](https://notiky.com) — Cursor for Product Management.
 - 💻 Building with Go, Laravel, Next, and TypeScript
 - 🧠 Interested in startups, AI, micro-SaaS and cars 
 
