@@ -4,13 +4,11 @@
 ---
 developer, builder, vibe-coder, vibe-hustler.
 
-- 🔨 Founder @ [Notiky](https://notiky.com) — Cursor for Product Management.
-- 💻 Building with Go, Laravel, Next, and TypeScript
-- 🧠 Interested in startups, AI, micro-SaaS and cars 
+— 🔨 Founder @ [Notiky](https://notiky.com) : Cursor for Product Management.
 
 > Work in silence. Launch in public.
 
-📬 Telegram: [@romaluev](https://t.me/romaluev)
+📬 Telegram: [@romaluev](https://t.me/romaluevs)
 🤵 LinkedIn: [@romaluev](https://www.linkedin.com/in/romaluev)
 𝕏 / Twitter: [@romaluev](https://x.com/RomaLuev)
 
